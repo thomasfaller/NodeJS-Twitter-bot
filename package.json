@@ -1,0 +1,30 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "NodeJS Twitter Bot",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasfaller/NodeJS-Twitter-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "app",
+    "nodejs",
+    "node",
+    "js",
+    "api"
+  ],
+  "author": "Thomas Faller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasfaller/NodeJS-Twitter-bot/issues"
+  },
+  "homepage": "https://github.com/thomasfaller/NodeJS-Twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
